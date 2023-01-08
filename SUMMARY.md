@@ -8,7 +8,7 @@
 * [What Is Rebase And APY?](luzion-protocol/what-is-apy.md)
 * [How is the APY calculated?](luzion-protocol/how-is-the-apy-calculated.md)
 * [Utilizing LZN In Apocalypse](luzion-protocol/utilizing-lzn-in-apocalypse.md)
-* [🔐 Audit](luzion-protocol/audit.md)
+* [Audit](luzion-protocol/audit.md)
 * [🔁 How does the ASPAR feature work?](luzion-protocol/how-does-the-aspar-feature-work.md)
 * [🌪 Auto Black Hole](luzion-protocol/auto-black-hole.md)
 * [💰 Luzion Protocol Dividend Fund (LPDF)](luzion-protocol/luzion-protocol-dividend-fund-lpdf.md)
