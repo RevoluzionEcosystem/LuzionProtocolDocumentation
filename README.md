@@ -1,5 +1,7 @@
 # Luzion Protocol Introduction
 
+<figure><img src=".gitbook/assets/LuzionProtocolLogoFullBright.png" alt=""><figcaption><p>"Revolutionizing The Blockchain Industry"</p></figcaption></figure>
+
 ## <mark style="color:yellow;">Luzion Protocol Introduction</mark>
 
 The Luzion Protocol is a decentralized financial asset <mark style="color:yellow;">**developed by the Revoluzion Ecosystem**</mark>. The team members are fully transparent and committed to creating a trustworthy and reliable project. The Luzion Protocol utilizes the unique Auto-Staking Protocol and Auto-Reflection (ASPAR) protocol to offer a sustainable fixed compound interest model to token holders.
@@ -12,7 +14,7 @@ The Luzion Protocol also boasts the fastest auto-compounding rate in crypto, wit
 
 In addition to these features, the Luzion Protocol offers the highest Fixed APY at 383,125.80% for the first 12 months, followed by a predefined Long-term Interest Cycle period. Overall, the Luzion Protocol is a powerful and innovative DeFi asset offering exceptional returns and benefits to token holders.
 
-### <mark style="color:yellow;">Revoluzion Has Been Featured On</mark>
+### <mark style="color:yellow;">Luzion Protocol Has Been Featured On</mark>
 
 \
 <img src=".gitbook/assets/BSC-scan-1.png" alt="" data-size="line"> <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> <img src=".gitbook/assets/image (2).png" alt="" data-size="line"> <img src=".gitbook/assets/image.png" alt="" data-size="line"><img src=".gitbook/assets/image (18).png" alt="" data-size="line">&#x20;
