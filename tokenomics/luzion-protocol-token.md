@@ -4,7 +4,7 @@
 
 Luzion Protocol is a BEP-20 token that utilizes an algorithmic monetary policy to distribute passive interest payments to its holders on a regular basis. Specifically, holders of the token receive interest payments every 15 minutes and 1 hour in the form of BUSD Reflection over the course of 13.5 years, until the maximum supply of 3.25 billion tokens has been reached. This distribution model allows for a dynamic, self-sustaining ecosystem that incentivizes long-term holding of the LZN token.
 
-Here's some basic token metadata
+<figure><img src="../.gitbook/assets/RebaseTimeLine-1.png" alt=""><figcaption><p>Graph Showing the Relationship Between Token Value, Supply, and Inflation/Deflation</p></figcaption></figure>
 
 ### <mark style="color:yellow;">Sustaining the LZN Token Through Time: Strategies and Mechanics</mark>
 
@@ -35,6 +35,7 @@ To counter the inflationary effects of rebasing, the LZN token implements a cons
 #### <mark style="color:yellow;">Transfer Transactions:</mark>
 
 * Transfer fees: 0%
+  * The implementation of 0% transfer fees for the LZN token allows for its seamless integration into the Apocalypse game for player versus player (PVP) contests, without incurring excessive taxation on transactions
 
 {% hint style="success" %}
 <mark style="color:yellow;">**Note:**</mark> Slippage, which varies based on chart volatility and price impact, may be applied to the above fees at a rate of +1-2%.
