@@ -3,9 +3,9 @@
 ## 📒 Luzion Protocol
 
 * [Luzion Protocol Introduction](README.md)
-* [Advantages of the LZN Protocol Over Other Protocols](luzion-protocol/advantages-of-the-lzn-protocol-over-other-protocols.md)
-* [💹 What is APY?](luzion-protocol/what-is-apy.md)
-* [💸 How is the APY calculated?](luzion-protocol/how-is-the-apy-calculated.md)
+* [Advantages Of The LZN Protocol Over Other Protocols](luzion-protocol/advantages-of-the-lzn-protocol-over-other-protocols.md)
+* [What Is Rebase And APY?](luzion-protocol/what-is-rebase-and-apy.md)
+* [How is the APY calculated?](luzion-protocol/how-is-the-apy-calculated.md)
 * [⚔ LZN Utility Use Case](luzion-protocol/lzn-utility-use-case.md)
 * [🟢 How To Buy LZN](luzion-protocol/how-to-buy-lzn.md)
 * [🔐 Audit](luzion-protocol/audit.md)
