@@ -1,4 +1,4 @@
-# 🏦 Luzion Protocol Treasury Vault
+# Luzion Protocol Treasury Vault
 
 The Treasury provides support to the LPDF in the event of an extreme price drop in the **Luzion Protocol** token. **Luzion Protocol** Treasure also used for additional marketing campaigns, ecosystem projects, future development and Insurance coverage ANTI-RUG.
 

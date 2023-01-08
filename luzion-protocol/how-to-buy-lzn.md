@@ -1,10 +1,10 @@
-# 🟢 How To Buy LZN
+# How To Buy LZN
 
 **For now we are still on FairLaunch sale, you can contribute your BNB to receive your LZN tokens once the FairLaunch ends, for more details view** [**Fair-Launch Sale**](broken-reference)****
 
 **How to switch on Binance Smart Chain with Metamask.**
 
-![](broken-reference)[Fast Guide Here](https://docs.binance.org/smart-chain/wallet/metamask.html)
+<img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line">[Fast Guide Here](https://docs.binance.org/smart-chain/wallet/metamask.html)
 
 **How to use Binance Smart Chain with TrustWallet.**
 

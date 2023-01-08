@@ -1,4 +1,4 @@
-# 💰 Luzion Protocol Dividend Fund (LPDF)
+# Luzion Protocol Dividend Fund (LPDF)
 
 The LPDF serves as an BUSD Reflection to achieve most profitable, stability and long term sustainability of the **Luzion Protocol** by maintaining a consistent 0.02355% rebase rate paid to all **Luzion Protocol** token holders.
 

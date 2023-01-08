@@ -2,7 +2,7 @@
 description: Auto-Staking Protocol and Auto-Reflection
 ---
 
-# 🔁 How does the ASPAR feature work?
+# How does the ASPAR feature work?
 
 The ASPAR Auto-Staking Protocol and Auto-Reflection feature is a simple yet cutting-edge function called **Buy-Hold-Earn**, that provides the ultimate ease of use for **Luzion Protocol** holders.&#x20;
 

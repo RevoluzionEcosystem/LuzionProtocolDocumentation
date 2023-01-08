@@ -1,4 +1,4 @@
-# 🌪 Auto Black Hole
+# Auto Black Hole
 
 <mark style="color:green;">**2%**</mark> of all **Luzion Protocol** traded are burnt in **Auto Black Hole**. The more that is traded, the more gravitational pull gets into the black hole causing the black hole to grow in size, larger and larger through self fulfilling Auto-Compounding, reducing the circulating supply and keeping the **Luzion Protocol** stable.
 

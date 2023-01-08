@@ -1,4 +1,4 @@
-# 📈 Long-term Interest Cycle (LIC)
+# Long-term Interest Cycle (LIC)
 
 In order to maintain sustainability and future growth, we have introduced a Long-term Interest Cycle (LIC) component which will award **Luzion Protocol** token holders with continued compound interest in perpetuity.
 

@@ -1,4 +1,4 @@
-# ⚖ Luzion Protocol Auto Liquidity System (LPALS)
+# Luzion Protocol Auto Liquidity System (LPALS)
 
 ### **What Is Luzion Protocol Auto Liquidity System (LPALS)**
 
