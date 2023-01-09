@@ -2,13 +2,9 @@
 
 ### **What Is Luzion Protocol Auto Liquidity System (LPALS)**
 
-Liquidity pools are one of the foundational technologies behind the current DeFi ecosystem. In itself, the idea is profoundly simple. A liquidity pool is basically funds thrown together in a big digital pile. But what can you do with this pile in a permissionless environment, where anyone can add liquidity to it? Let’s explore how DeFi has iterated on the idea of liquidity pools.
+Luzion Protocol Auto Liquidity System (LPALS) is a feature that maintains liquidity in the LZN/BNB liquidity pool on the DeFi platform. The pool is comprised of a 50/50 split between LZN and BNB to balance the ratio. The starting price of LZN is determined by the conversion ratio between BNB and LZN.
 
-Basically, the liquidity pool will contain a split of <mark style="color:green;">**50/50 between LZN and BNB in the pool**</mark> to balance out the ratio. The price of start would depend on the start of the conversion ratio between BNB to LZN.\
-\
-For example, when someone buys, they put in more BNB into the pool while removing LZN from the pool, creating a higher balance of BNB instead of LZN in the pool which in turn increases the value of LZN to BNB ratio. This what makes the price of LZN to increase higher in return.\
-\
-By having a liquidity pool, users are free to buy and sell LZN at any given time as long there is enough liquidity inside the pool (BNB/LZN). To ensure the liquidity does not goes empty, this is where the LPALS system is utilize by Luzion Protocol by constantly adding liquidity.
+When a user buys LZN, they add more BNB to the pool and remove LZN, which increases the balance of BNB and the value of the LZN/BNB ratio. This is what drives the price of LZN higher. The liquidity pool allows users to buy and sell LZN at any time as long as there is enough liquidity in the pool. To ensure that the pool does not run out of liquidity, the LPALS system is used to constantly add liquidity to the pool.
 
 ### How Does LPALS Works?
 

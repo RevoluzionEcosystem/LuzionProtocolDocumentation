@@ -17,4 +17,4 @@ In summary, the Auto Black Hole mechanism helps to stabilize the value of the Lu
 
 Users can check the amount of burnt LZN tokens in the binance smart chain explorer, which provides transparency and allows users to verify the burnt tokens for themselves.
 
-<mark style="color:yellow;">**Black Hole Address:**</mark>** ** [0x000000000000000000000000000000000000dEaD](https://bscscan.com/token/0x291C4e4277F8717e0552D108dBd7f795a9fEF016?a=0x000000000000000000000000000000000000dEaD)
+**Black Hole Address:** [0x000000000000000000000000000000000000dEaD](https://bscscan.com/token/0x291C4e4277F8717e0552D108dBd7f795a9fEF016?a=0x000000000000000000000000000000000000dEaD)

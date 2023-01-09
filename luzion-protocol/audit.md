@@ -2,7 +2,7 @@
 description: Luzion Protocol Audit
 ---
 
-# Audit
+# Luzion Protocol Audit
 
 The Luzion Protocol Smart Contract analysis reported no compiler error or critical issues. The contract Owner can access some admin functions that can not be used in a malicious way to disturb the users’ transactions.&#x20;
 
