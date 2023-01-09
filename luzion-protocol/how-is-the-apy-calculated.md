@@ -1,7 +1,3 @@
----
-description: APY calculation.
----
-
 # How is the APY calculated?
 
 ## <mark style="color:yellow;">Continuous Compounding Formula</mark>
