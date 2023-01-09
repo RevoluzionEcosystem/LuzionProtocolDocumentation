@@ -1,16 +1,18 @@
 # How To Buy LZN
 
-**For now we are still on FairLaunch sale, you can contribute your BNB to receive your LZN tokens once the FairLaunch ends, for more details view** [**Fair-Launch Sale**](broken-reference)****
+## <mark style="color:yellow;">How To Buy LZN Token</mark>
 
-**How to switch on Binance Smart Chain with Metamask.**
+For now we are still on FairLaunch sale, you can contribute your BNB to receive your LZN tokens once the FairLaunch ends, for more details view [Fair-Launch Sale](broken-reference)
 
-<img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line">[Fast Guide Here](https://docs.binance.org/smart-chain/wallet/metamask.html)
+How to switch on Binance Smart Chain with Metamask.
 
-**How to use Binance Smart Chain with TrustWallet.**
+[Fast Guide Here](https://docs.binance.org/smart-chain/wallet/metamask.html)
 
-![](broken-reference)[Fast Guide Here](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
+How to use Binance Smart Chain with TrustWallet.
 
-**How to Swap BNB for LZN.**
+[Fast Guide Here](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
+
+How to Swap BNB for LZN.
 
 **Step 1** - Charge your wallet with the amount of BNB(bep20) you wish to swap for LZN.
 
