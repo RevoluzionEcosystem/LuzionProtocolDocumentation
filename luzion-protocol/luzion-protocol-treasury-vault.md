@@ -1,14 +1,12 @@
 # Luzion Protocol Treasury Vault
 
-The Treasury supports the LPDF in the event of an extreme price drop in the Luzion Protocol token or unforeseen black-swan event. It functions as additional financial support for the ASPAR and helps to establish a floor value for the Luzion Protocol token.&#x20;
+The Treasury provides support to the LPDF in the event of an extreme price drop in the **Luzion Protocol** token. **Luzion Protocol** Treasure also used for additional marketing campaigns, ecosystem projects, future development and Insurance coverage ANTI-RUG.
 
-The Treasury also helps to stabilize the price rate by holding BNB, BUSD, and LZN tokens, which can be used to buy back and sell LZN to sustain its value and reduce volatility.
+The treasury functions as additional financial support for the ASPAR. This additional support can become important in the event of an extreme price drop of the **Luzion Protocol** token or unforeseen black-swan event. It helps to establish a floor value for the **Luzion Protocol** token.\
+\
+The treasury will also be used to stabilize the price rate to ensure it's volatility does not happen very often. The treasury holds all 3 tokens which includes BNB, BUSD and LZN as well, this ensures the treasury are able to backed the price and retain the price whenever required by utilizing the BNB and BUSD to buy back and LZN to sell back to always sustain the volatility of LZN value.
 
-In addition to providing financial support, the Treasury may also be used to fund new Luzion Protocol products, services, and projects that will provide value to the community and support marketing efforts. This helps to expand and improve the Luzion Protocol ecosystem.
-
-### <mark style="color:yellow;">Luzion Protocol Treasury Vault</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Address**</mark>
-
-Users can access the relevant information to view all the transactions that take place within the treasury and marketing/ecosystem wallet. This allows users to track the activity within these wallets and ensure that the transactions are being conducted properly.
+The treasury may also be used to fund new **Luzion Protocol** products, services, and projects that will expand and provide more value to the **Luzion Protocol** community as well as providing funding for marketing.
 
 **Treasury Wallet:** [0x630A70c2592cC07F65249F0401709160341a254D](https://bscscan.com/address/0x630A70c2592cC07F65249F0401709160341a254D)\
 \
