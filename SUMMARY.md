@@ -4,6 +4,7 @@
 
 * [Luzion Protocol Introduction](README.md)
 * [Luzion Protocol Token](tokenomics/luzion-protocol-token.md)
+* [Luzion Protocol Smart Contracts](luzion-protocol/luzion-protocol-smart-contracts.md)
 * [Advantages Of The LZN Protocol Over Other Protocols](luzion-protocol/advantages-of-the-lzn-protocol-over-other-protocols.md)
 * [What Is Rebase And APY?](luzion-protocol/what-is-apy.md)
 * [How is the APY calculated?](luzion-protocol/how-is-the-apy-calculated.md)
