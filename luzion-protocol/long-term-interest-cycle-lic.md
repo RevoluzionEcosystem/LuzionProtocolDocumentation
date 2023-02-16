@@ -10,6 +10,10 @@ This increases their total LZN holdings, which in turn leads to more LZN reflect
 \
 The Luzion Protocol's Long-term Interest Cycle (LIC) rewards token holders with compound interest over time. The interest rate for the LIC is as follows:
 
+{% hint style="success" %}
+Luzion Protocol has been successfully launched on 15th April 2022, the first APY rate starts from then on.
+{% endhint %}
+
 1. For the first 12 months (EPOCH 1 to 35,040), the interest rate is 0.02355% per EPOCH, resulting in an annual percentage yield (APY) of <mark style="color:yellow;">383,125.80%.</mark>
 2. For the next 6 months (EPOCH 35,041 to 52,560), the interest rate is 0.00211% per EPOCH, resulting in an APY of <mark style="color:yellow;">209.45%.</mark>
 3. For the next 5 years and 6 months (EPOCH 52,561 to 245,280), the interest rate is 0.00014% per EPOCH, resulting in an APY of <mark style="color:yellow;">105.02%.</mark>
