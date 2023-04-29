@@ -8,7 +8,7 @@
 * [Advantages Of The LZN Protocol Over Other Protocols](luzion-protocol/advantages-of-the-lzn-protocol-over-other-protocols.md)
 * [What Is Rebase And APY?](luzion-protocol/what-is-apy.md)
 * [How is the APY calculated?](luzion-protocol/how-is-the-apy-calculated.md)
-* [Utilizing LZN In Apocalypse](luzion-protocol/utilizing-lzn-in-apocalypse.md)
+* [Raffle Distribution System](luzion-protocol/utilizing-lzn-in-apocalypse.md)
 * [Luzion Protocol Audit](luzion-protocol/audit.md)
 * [How does the ASPAR feature work?](luzion-protocol/how-does-the-aspar-feature-work.md)
 * [Auto Black Hole](luzion-protocol/auto-black-hole.md)

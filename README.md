@@ -14,9 +14,9 @@ The Luzion Protocol also boasts the fastest auto-compounding rate in crypto, wit
 
 In addition to these features, the Luzion Protocol offers the highest Fixed APY at 383,125.80% for the first 12 months, followed by a predefined Long-term Interest Cycle period. Overall, the Luzion Protocol is a powerful and innovative DeFi asset offering exceptional returns and benefits to token holders.
 
+Contract Address : [0x291C4e4277F8717e0552D108dBd7f795a9fEF016](https://bscscan.com/address/0x291C4e4277F8717e0552D108dBd7f795a9fEF016)
+
 ### <mark style="color:yellow;">Luzion Protocol Has Been Featured On</mark>
 
 \
-<img src=".gitbook/assets/BSC-scan-1.png" alt="" data-size="line"> <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> <img src=".gitbook/assets/image (2).png" alt="" data-size="line"> <img src=".gitbook/assets/image.png" alt="" data-size="line"><img src=".gitbook/assets/image (18).png" alt="" data-size="line">&#x20;
-
-Contract Address : [0x291C4e4277F8717e0552D108dBd7f795a9fEF016](https://bscscan.com/address/0x291C4e4277F8717e0552D108dBd7f795a9fEF016)
+<img src=".gitbook/assets/BSC-scan-1.png" alt="" data-size="line"> <img src=".gitbook/assets/image (7).png" alt="" data-size="line"> <img src=".gitbook/assets/image (2).png" alt="" data-size="line"> <img src=".gitbook/assets/image (5).png" alt="" data-size="line"><img src=".gitbook/assets/image (18).png" alt="" data-size="line">&#x20;
