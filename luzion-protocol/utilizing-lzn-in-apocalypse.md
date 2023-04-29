@@ -1,4 +1,4 @@
-# Raffle Distribution System
+# RDS - Raffle Distribution System
 
 ## <mark style="color:yellow;">LZN Utility In Raffle Distribution System</mark>
 
@@ -113,6 +113,18 @@ A: This is due to the reveal final draw number has not been initiated by anyone.
 \
 <mark style="color:yellow;">**Q: Can i initiate the final draw number then?**</mark>\
 A: Yes you can, anyone can initiate the final draw number reveal by clicking on the reveal button even tho they did not buy any tickets.
+
+<mark style="color:yellow;">**Q: What happens to LZN tokens that are rebasing in the RDS Pool?**</mark>\
+A: When LZN tokens are rebasing in the RDS Pool, we remove the additional tokens once they reach a certain threshold. These tokens are then reinjected back into the RDS Pool.
+
+<mark style="color:yellow;">**Q: Can the current RDS token, which is LZN, be removed using the token recovery function in the RDS smart contract?**</mark>\
+A: No, it is not possible to remove the current RDS token using the token recovery function in the RDS smart contract. However, we can change the RDS token and remove the LZN tokens by stopping the RDS and starting it again with a new token.
+
+<mark style="color:yellow;">**Q: Is it possible to change the RDS token requirement anytime?**</mark>\
+A: No, it is only possible to change the RDS token when the RDS is not running. Once the RDS is running, it is not possible to change the RDS token.
+
+<mark style="color:yellow;">**Q: So, does this mean that the LZN tokens that are rebasing will be injected back into the RDS Pool over time?**</mark>\
+A: Yes, that is correct. The LZN tokens that are rebasing will be injected back into the RDS Pool over time, increasing the pool value constantly.
 
 ### <mark style="color:yellow;">RDS Smart Contract Logic</mark>
 

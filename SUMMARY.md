@@ -4,7 +4,7 @@
 
 * [Luzion Protocol Introduction](README.md)
 * [Luzion Protocol Token](tokenomics/luzion-protocol-token.md)
-* [RDS - Raffle Distribution System](luzion-protocol/rds.md)
+* [RDS - Raffle Distribution System](luzion-protocol/utilizing-lzn-in-apocalypse.md)
 * [Luzion Protocol Smart Contracts](luzion-protocol/luzion-protocol-smart-contracts.md)
 * [Advantages Of The LZN Protocol Over Other Protocols](luzion-protocol/advantages-of-the-lzn-protocol-over-other-protocols.md)
 * [What Is Rebase And APY?](luzion-protocol/what-is-apy.md)
