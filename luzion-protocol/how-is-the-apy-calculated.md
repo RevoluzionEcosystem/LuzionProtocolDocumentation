@@ -89,6 +89,8 @@ To understand a better perspective on LZN rate :
 
 Total invested at LZN start of rebase :\
 \
-P = (Principle + Interest) = <mark style="color:yellow;">**$1,000**</mark>\ <mark style="color:green;"></mark>\ <mark style="color:green;"></mark>Total accumulated end of 1 year rebase :
+P = (Principle + Interest) = <mark style="color:yellow;">**$1,000**</mark>\
+\
+Total accumulated end of 1 year rebase :
 
 A = (Total Accrued Amount) = <mark style="color:yellow;">**$3,831,258.01**</mark>

@@ -16,6 +16,10 @@ In addition to these features, the Luzion Protocol offers the highest Fixed APY 
 
 Contract Address : [0x291C4e4277F8717e0552D108dBd7f795a9fEF016](https://bscscan.com/address/0x291C4e4277F8717e0552D108dBd7f795a9fEF016)
 
+## <mark style="color:yellow;">LZN Utility In (RDS) Raffle Distribution System</mark>
+
+The raffle distribution system (RDS) is a gaming mechanism that enables users to participate in a raffle every 24 hours by purchasing tickets that contain a six-digit number. After the RDS concludes, users can verify whether their tickets won and claim their share of the prize pool.
+
 ### <mark style="color:yellow;">Luzion Protocol Has Been Featured On</mark>
 
 \
